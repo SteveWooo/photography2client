@@ -59,10 +59,12 @@ mac: mac版本因安装流程复杂问题尚未解决，故暂未发布，认识
 
 ![image](https://github.com/SteveWooo/photography2client/assets/12856960/75c1fea6-fa2d-4f42-b701-ab272ccbda6d)
 
-
 ## 基本流程总结
 
-![c9aa635ebc7f5fcf6aa3350868f62118](https://github.com/SteveWooo/photography2client/assets/12856960/d31246c2-73fe-4f16-ac12-a48cac72c3ad)
+1、选择原图位置
+2、压缩
+3、提供连接给客户选片
+4、点击导出选片进行分片，得到最终原片
 
 ## 网络要求
 
