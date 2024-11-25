@@ -17,6 +17,8 @@ windows store: https://apps.microsoft.com/detail/9pjw1cjqpl1k?rtc=1&hl=en-us&gl=
 
 mac: mac版本因安装流程复杂问题尚未解决，故暂未发布，认识的朋友可以📫联系我获取内测软件包。
 
+！！！！哥们别买了！！！P2P真的很不稳定！！！我也不知道怎么下架！！找我要包玩玩就行了！！
+
 ## 使用方法
 
 - 等待初始化：
