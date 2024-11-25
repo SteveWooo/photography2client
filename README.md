@@ -13,7 +13,6 @@ Photography2Client是一个提供给摄影师使用，能对图片进行压缩�
 
 ## 购买&下载
 
-windows store: https://apps.microsoft.com/detail/9pjw1cjqpl1k?rtc=1&hl=en-us&gl=US
 
 mac: mac版本因安装流程复杂问题尚未解决，故暂未发布，认识的朋友可以📫联系我获取内测软件包。
 
